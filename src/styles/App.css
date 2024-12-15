@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+
+.navbar .links a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+.navbar .links a:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  background: #f0f0f0;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+.main-content {
+  padding: 1em;
+}
+
+.home {
+  text-align: center;
+  padding: 2em;
+}
+
+.home-links {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home-links li {
+  margin: 1em 0;
+}
+
+.city-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}

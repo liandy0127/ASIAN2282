@@ -1,0 +1,120 @@
+/* Home.css */
+
+/* Adjust the width of the container */
+.home-container {
+  max-width: 1200px;
+  /* Change this to control the content width */
+  width: 90%;
+  /* Optionally, use width for more fluid layouts */
+  margin: 0 auto;
+  /* Center horizontally */
+  padding: 1em;
+  /* Ensure some spacing on all sides */
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  /* Adjust the max width for larger screens */
+  margin: 0 auto;
+  /* Center the content horizontally */
+  padding: 0 20px;
+  /* Add some padding for smaller screens */
+}
+
+h1,
+h2,
+p {
+  text-align: justify;
+  /* Align text to both sides for better spacing */
+}
+
+img {
+  width: 100%;
+  /* Make images responsive */
+  max-width: 600px;
+  /* Prevent images from being too large */
+  display: block;
+  /* Center the image block */
+  margin: 20px auto;
+  /* Add space above and below the image */
+}
+
+
+/* General font and text settings */
+body {
+  font-family: 'EB Garamond', serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for headings */
+h1 {
+  text-align: center;
+  font-weight: 700;
+  /* Bold for headings */
+  margin-bottom: 1.5em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+/* Links */
+.explore-links h2 {
+  font-weight: 700;
+  margin-top: 2em;
+}
+
+.explore-links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.explore-links li {
+  margin: 0.5em 0;
+}
+
+.explore-links a {
+  text-decoration: none;
+  color: #1e90ff;
+  /* Blue for links */
+}
+
+.explore-links a:hover {
+  text-decoration: underline;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  /* Aligns the items in a row */
+  gap: 10px;
+  /* Adds space between images */
+  margin-top: 20px;
+}
+
+.city-image {
+  flex: 1 1 30%;
+  /* Ensures each container takes roughly 30% of the row */
+  max-width: 100%;
+  /* Limits image width */
+  text-align: center;
+}
+
+.city-image img {
+  width: 100%;
+  /* Makes the image fill its container */
+  height: auto;
+  /* Maintains aspect ratio */
+  border-radius: 10px;
+  /* Adds rounded corners (optional) */
+}
+
+.city-image p {
+  margin-top: 8px;
+  font-size: 1em;
+  font-weight: bold;
+  color: #333;
+}
