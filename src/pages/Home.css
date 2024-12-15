@@ -28,6 +28,20 @@ p {
   /* Align text to both sides for better spacing */
 }
 
+/* Footer Styling */
+footer {
+  text-align: center;
+  /* Centers text horizontally */
+  padding: 1em 0;
+  /* Adds spacing above and below */
+  background-color: #f8f9fa;
+  /* Optional: Light gray background */
+  color: #333;
+  /* Optional: Text color */
+  font-size: 0.9em;
+}
+
+
 img {
   width: 100%;
   /* Make images responsive */

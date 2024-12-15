@@ -9,6 +9,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <h1>Chronicle of Asian Cities in 2050</h1>
+      <h2 style={{ textAlign: 'center' }}> Prologue</h2>
       <p>
         It was a quiet Sunday when a holographic alert hovered in front of me—Daniel Wong calling. I tapped to answer,
         and his familiar voice filled the air.
@@ -44,28 +45,28 @@ const Home = () => {
         With a nostalgic grin, I clicked to book the flight.
       </p>
       <div className="explore-section">
-        <h2>Explore the Cities:</h2>
+        <h2 style={{ textAlign: 'center' }}>Explore the Cities</h2>
         <div className="image-row">
 
           <div className="city-image">
             <Link to="/doha">
               <img src={DohaImage} alt="Doha in 2050" />
             </Link>
-            <h3>Doha</h3>
+            <h3>Chapter1: Doha</h3>
           </div>
 
           <div className="city-image">
             <Link to="/singapore">
               <img src={SingaporeImage} alt="Singapore in 2050" />
             </Link>
-            <h3>Singapore</h3>
+            <h3>Chapter2: Singapore</h3>
           </div>
 
           <div className="city-image">
             <Link to="/kyoto">
               <img src={KyotoImage} alt="Kyoto in 2050" />
             </Link>
-            <h3>Kyoto</h3>
+            <h3>Chapter3: Kyoto</h3>
           </div>
         </div>
       </div>

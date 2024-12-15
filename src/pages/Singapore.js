@@ -51,11 +51,11 @@ const Singapore = () => (
       "So what happened?" Jackie asked, leaning on the counter.
     </p>
     <p>
-      "The government stepped in," the vendor explained, plating our satay. "They launched the Hawker Culture Protection Program. We got subsidies, training programs, even help with modernizing our stalls. And then UNESCO recognized Singapore’s hawker culture as intangible cultural heritage in 2016. That gave us not just money, but pride."
+      "The government stepped in," the vendor explained, plating our satay. "They launched the Hawker Culture Protection Program. We got subsidies, training programs, even help with modernizing our stalls. And then UNESCO recognized Singapore’s hawker culture as intangible cultural heritage in 2016. That gave us not just money, but pride." [9]
     </p>
     <p>
       I nodded, impressed. "And the technology? How do you feel about the robots and smart screens?"
-      The vendor smiled as a delivery bot whirred past, dropping a tray of drinks at a nearby table. "It helps, no doubt. These bots make our lives easier, but they don’t replace what matters. People come here to connect, to talk, to feel like they’re part of something. That’s what keeps this place alive."
+      The vendor smiled as a delivery bot whirred past, dropping a tray of drinks at a nearby table. "It helps, no doubt. These bots make our lives easier, but they don’t replace what matters. People come here to connect, to talk, to feel like they’re part of something. That’s what keeps this place alive." [10]
     </p>
     <p>
       We sat down with our food, the scent of smoky satay mingling with the sweet aroma of peanut sauce. As I took a bite, the flavor transported me back to my childhood, to simpler times shared with friends.
@@ -79,7 +79,7 @@ const Singapore = () => (
       The morning sun filtered through a thin mist as my self-driving taxi glided silently along the edge of Singapore’s "Forest City," Tengah. The city stretched out like a modern Eden, its towers cloaked in greenery, shimmering under the golden light. Daniel’s voice came through the AI driver’s speakers: "You’re almost here, Andy. You’ll see what I mean when I say Tengah is like living in a utopia."
     </p>
     <p>
-      The car turned into a tree-lined pedestrian street, and the first thing I noticed was the absence of cars. The streets were alive with cyclists, children running, and residents enjoying the open space, shaded by vertical gardens and canopies of solar panels. It was hard to imagine this serene place was once the site of brick factories and later military training grounds.
+      The car turned into a tree-lined pedestrian street, and the first thing I noticed was the absence of cars. The streets were alive with cyclists, children running, and residents enjoying the open space, shaded by vertical gardens and canopies of solar panels. It was hard to imagine this serene place was once the site of brick factories and later military training grounds [11].
     </p>
     <p>
       Daniel greeted me outside his apartment building, waving energetically. "Welcome to my home!" he said, leading me into the building’s atrium, where sunlight streamed through transparent walls lined with vines. "What do you think?"
@@ -91,7 +91,7 @@ const Singapore = () => (
     </p>
     <p>
       "Is it effective, though?" I asked, sitting down.
-      Daniel chuckled. "Very. The government invested heavily in making it appealing. Ninety percent of residents here opted for the system. It reduces carbon emissions by as much as taking 4,500 cars off the road every year."
+      Daniel chuckled. "Very. The government invested heavily in making it appealing. Ninety percent of residents here opted for the system. It reduces carbon emissions by as much as taking 4,500 cars off the road every year." [11]
     </p>
     <p>
       As we chatted, a soft knock came at the door. A neighbor, Mrs. Tan, popped her head in. She held a small container of homemade food.
@@ -108,10 +108,10 @@ const Singapore = () => (
     <img src={SG5} alt="Doha Airport" style={{ float: 'left', margin: '0px 15px 15px 0px', maxWidth: '40%' }} />
     <p>
       "What changed his mind?"
-      "Living here," she said simply. "Once we moved in, we saw the benefits—clean air, no traffic noise, everything well-integrated. And the government supported us through subsidies and clear communication. It wasn’t perfect at first, but they listened to feedback and made adjustments."
+      "Living here," she said simply. "Once we moved in, we saw the benefits—clean air, no traffic noise, everything well-integrated. And the government supported us through subsidies and clear communication. It wasn’t perfect at first, but they listened to feedback and made adjustments." [12]
     </p>
     <p>
-      After Mrs. Tan left, Daniel suggested a walk. We headed to Tengah’s ecological corridor, a 328-foot-wide strip of forest running through the city, linking a reservoir to a nature reserve. Residents strolled and biked along the paths, while birds flitted among the trees.
+      After Mrs. Tan left, Daniel suggested a walk. We headed to Tengah’s ecological corridor, a 328-foot-wide strip of forest running through the city, linking a reservoir to a nature reserve. Residents strolled and biked along the paths, while birds flitted among the trees [11].
     </p>
     <p>
       "This corridor isn’t just for us," Daniel explained. "It’s designed for wildlife too—safe passage for animals between habitats. Tengah was built to respect nature, not replace it."
@@ -125,7 +125,7 @@ const Singapore = () => (
     </p>
     <p>
       "Two hours?" I marveled.
-      She nodded. "It reduces the carbon footprint of transportation, too. Plus, it’s a way for urban residents to connect with their food and nature."
+      She nodded. "It reduces the carbon footprint of transportation, too. Plus, it’s a way for urban residents to connect with their food and nature." [11]
     </p>
     <img src={SG6} alt="Doha Airport" style={{ float: 'right', margin: '0px 0px 15px 15px', maxWidth: '40%' }} />
     <p>
@@ -133,7 +133,7 @@ const Singapore = () => (
     </p>
     <p>
       "What about the cost of living?" I asked.
-      Daniel smiled. "That’s the beauty of Tengah. More than 70% of the homes here are public housing, and prices start as low as 108,000 Singapore dollars for a two-bedroom unit. The government made sure it’s accessible, not just a luxury."
+      Daniel smiled. "That’s the beauty of Tengah. More than 70% of the homes here are public housing, and prices start as low as 108,000 Singapore dollars for a two-bedroom unit. The government made sure it’s accessible, not just a luxury." [11]
     </p>
     <p>
       As the sun began to set, Daniel led me back to his apartment. I looked around at the green towers, the car-free streets, and the ecological corridor, and I couldn’t help but feel a mix of awe and curiosity.
@@ -169,7 +169,7 @@ const Singapore = () => (
     </p>
     <p>
       We stopped outside a building labeled "Data Exchange." The holographic guards flanking the entrance scanned every passerby with glowing red eyes. Daniel stepped forward, holding out a cryptographic authorization token.
-      "We’re here to see Rocky," he said.
+      "We’re here to see Rocky," he said [13].
     </p>
     <p>
       The guards nodded after verifying the token and stepped aside. Inside, the space was dimly lit, illuminated only by the glow of countless data screens. At the center sat Rocky, a burly man puffing on an electronic cigar. His digital necklace scrolled fluctuating cryptocurrency prices, and his fingers moved rapidly across a holographic console.
@@ -184,14 +184,14 @@ const Singapore = () => (
       "But you’re still here," Jackie quipped.
     </p>
     <p>
-      "Because I’m better than them," Rocky replied with a smirk. He gestured toward his console. "Let’s see what we can find."
+      "Because I’m better than them," Rocky replied with a smirk. He gestured toward his console. "Let’s see what we can find." [13]
     </p>
     <p>
       As Rocky sifted through blockchain records, the faint hum of holographic projections filled the room. After a few minutes, he pointed to a flagged transaction. "Here it is. Transferred to one of the 'Red Light Alliance' clubs. You’ll need to tread carefully—they don’t welcome outsiders."
     </p>
     <p>
       The name sent a chill down my spine. "What is this... Red Light Alliance?"
-      "A network of high-end establishments," Rocky said. "They specialize in services—both real and virtual. You’ll see things there that you won’t find anywhere else, but don’t step on anyone’s toes."
+      "A network of high-end establishments," Rocky said. "They specialize in services—both real and virtual. You’ll see things there that you won’t find anywhere else, but don’t step on anyone’s toes." [14]
     </p>
     <p>
       Following Rocky’s instructions, we arrived at the towering glass structure. Its walls shimmered with holograms advertising everything from sensual AI experiences to performances by cyber-enhanced dancers. At the entrance, a pair of cybernetic guards scanned us.
@@ -208,7 +208,7 @@ const Singapore = () => (
       "A dream, or a nightmare," Daniel replied. "Depends on your perspective."
     </p>
     <p>
-      We passed a grand stage where cybernetic dancers performed. Their metallic limbs moved in perfect harmony, light reflecting off their polished surfaces in dazzling patterns. Above them, a holographic DJ hovered, manipulating beats with gestures that sent waves of sound reverberating through the room.
+      We passed a grand stage where cybernetic dancers performed. Their metallic limbs moved in perfect harmony, light reflecting off their polished surfaces in dazzling patterns. Above them, a holographic DJ hovered, manipulating beats with gestures that sent waves of sound reverberating through the room [14].
     </p>
     <p>
       A sharply dressed receptionist greeted us in the quieter transaction zone. "How may I assist you?"
@@ -218,14 +218,14 @@ const Singapore = () => (
       She scanned our credentials and nodded. "Follow me."
     </p>
     <p>
-      She led us to a private room filled with holographic screens displaying transaction records. At the center was a sleek box. When I opened it, my crypto wallet gleamed inside, its holographic interface intact.
+      She led us to a private room filled with holographic screens displaying transaction records. At the center was a sleek box. When I opened it, my crypto wallet gleamed inside, its holographic interface intact [15].
     </p>
     <p>
       "Unbelievable," I murmured, scrolling through the recovered data. Every satoshi and byte was untouched.
       Daniel grinned. "Told you, Geylang has everything."
     </p>
     <p>
-      As we left, I caught sight of a cyberhuman worker leaning against a pillar, her glowing eyes meeting mine for a brief moment. She smiled faintly, her metallic fingers tapping a holographic pad. I couldn’t help but wonder about the lives behind these glowing facades—part machine, part human, and entirely enmeshed in this cyberpunk world.
+      As we left, I caught sight of a cyberhuman worker leaning against a pillar, her glowing eyes meeting mine for a brief moment. She smiled faintly, her metallic fingers tapping a holographic pad. I couldn’t help but wonder about the lives behind these glowing facades—part machine, part human, and entirely enmeshed in this cyberpunk world [16].
     </p>
     <p>
       "That’s Geylang for you," Daniel grinned. "You never know what’s hidden in these streets."

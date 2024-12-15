@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Epilogue = () => (
   <div className="city-page">
@@ -18,6 +19,34 @@ const Epilogue = () => (
     <p>
       As I fingered the small woven fabric from Nishijin, I smiled. “No matter where I go,” I thought, “these memories will always travel with me.” The train hummed, carrying me forward while my heart lingered in the past.
     </p>
+    <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '30px' }}>
+      <Link
+        to="/references"
+        style={{
+          textDecoration: 'none',
+          backgroundColor: '#808080',
+          color: 'white',
+          padding: '10px 20px',
+          borderRadius: '5px',
+          textAlign: 'center',
+        }}
+      >
+        References
+      </Link>
+      <Link
+        to="/"
+        style={{
+          textDecoration: 'none',
+          backgroundColor: '#808080',
+          color: 'white',
+          padding: '10px 20px',
+          borderRadius: '5px',
+          textAlign: 'center',
+        }}
+      >
+        Home
+      </Link>
+    </div>
   </div>
 );
 

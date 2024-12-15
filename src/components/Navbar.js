@@ -1,3 +1,4 @@
+// src/components/Navbar.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -10,6 +11,8 @@ const Navbar = () => (
       <Link to="/singapore">Singapore</Link>
       <Link to="/kyoto">Kyoto</Link>
       <Link to="/epilogue">Epilogue</Link>
+      <Link to="/references">References</Link>
+      <Link to="/CreativeProcess">Creative Process</Link>
     </div>
   </nav>
 );

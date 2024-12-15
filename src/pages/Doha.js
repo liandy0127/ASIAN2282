@@ -10,9 +10,7 @@ import doha8 from '../images/doha8.webp';
 import doha9 from '../images/doha9.webp';
 import './Home.css'; // Ensure CSS file is imported
 import { Link } from 'react-router-dom';
-// Put an image named doha.jpg inside src/images/
 import Kyoto from './Kyoto'; // Update the path based on your file structure
-
 
 const Doha = () => (
   <div className="city-page">
@@ -23,7 +21,7 @@ const Doha = () => (
       The sleek, futuristic hovercraft awaited me outside, ready to ferry travelers into the heart of Doha. As we glided toward Souq Waqif, a soothing AI voice filled the cabin: "You are arriving at Souq Waqif, one of Qatar’s most cherished heritage sites. Revitalized in 2008, this market blends historic charm with cutting-edge sustainability practices. Experience a living testament to Qatar’s cultural roots and its commitment to the future."
     </p>
     <p>
-      The hovercraft docked, and I stepped into a scene that felt like stepping into another century. Narrow alleys, flanked by mud-brick walls, stretched before me. The roofs, made from traditional dangeal wood and bamboo, were covered with clay and straw, naturally insulating the buildings against the desert heat. Every element seemed to echo the craftsmanship of the past, yet modernity subtly intertwined with the surroundings. Traditional lanterns glowed warmly, their light joined by discreetly placed energy-efficient LEDs. Above, holographic signs projected market maps and stories about Souq Waqif’s evolution.
+      The hovercraft docked, and I stepped into a scene that felt like stepping into another century. Narrow alleys, flanked by mud-brick walls, stretched before me. The roofs, made from traditional dangeal wood and bamboo, were covered with clay and straw, naturally insulating the buildings against the desert heat. Every element seemed to echo the craftsmanship of the past, yet modernity subtly intertwined with the surroundings. Traditional lanterns glowed warmly, their light joined by discreetly placed energy-efficient LEDs. Above, holographic signs projected market maps and stories about Souq Waqif’s evolution [1][3].
     </p>
     <img src={doha1} alt="Doha Airport" style={{ float: 'left', margin: '0px 15px 15px 0px', maxWidth: '37%' }} />
     <p>
@@ -72,14 +70,14 @@ const Doha = () => (
       As my hovercraft descended onto the glistening shores of Doha’s West Bay, the skyline seemed alive, shimmering like a golden mirage against the fiery sunset. Unlike the earthy nostalgia of Souq Waqif, West Bay radiated modernity—a glass-and-steel metropolis built to defy the sweltering heat and push the boundaries of urban living.
     </p>
     <p>
-      The temperature outside was still searing, but stepping into the city was like crossing a boundary into another dimension. A cool breeze greeted me as I entered the climate-controlled pedestrian boulevard, a feat made possible by the city’s advanced cooling towers. These towers, inspired by Qatar's traditional wind catchers, used solar-powered mechanisms to funnel cold air through the streets while venting out hot air, creating an oasis-like atmosphere.
+      The temperature outside was still searing, but stepping into the city was like crossing a boundary into another dimension. A cool breeze greeted me as I entered the climate-controlled pedestrian boulevard, a feat made possible by the city’s advanced cooling towers. These towers, inspired by Qatar's traditional wind catchers, used solar-powered mechanisms to funnel cold air through the streets while venting out hot air, creating an oasis-like atmosphere [4].
     </p>
     <img src={doha4} alt="Doha Airport" style={{ float: 'right', margin: '0px 0px 15px 15px', maxWidth: '37%' }} />
     <p>
       “Feels like magic, doesn’t it?” said Yasmin, a local sustainability officer who offered to guide me through the district. “It’s not just cooling; every structure here integrates smart energy systems to ensure minimal carbon emissions. The towers you see? They’re based on the zero-carbon cooling system piloted during the 2022 FIFA World Cup. We learned a lot from those stadiums.”
     </p>
     <p>
-      Walking with her, I marveled at how seamlessly Doha’s architects had fused cutting-edge innovation with cultural identity. The streets were shaded by floating panels that adjusted their positions to block the harshest rays of the sun, and the buildings’ facades glittered with photovoltaic glass, harvesting solar energy.
+      Walking with her, I marveled at how seamlessly Doha’s architects had fused cutting-edge innovation with cultural identity [2][3]. The streets were shaded by floating panels that adjusted their positions to block the harshest rays of the sun, and the buildings’ facades glittered with photovoltaic glass, harvesting solar energy.
     </p>
     <p>
       Our conversation drifted to the role of sustainability in transforming the city. Yasmin explained, “West Bay was once just a business hub. Today, it’s a prototype for future urban planning—a space where technology doesn’t overshadow humanity but complements it.”
@@ -104,14 +102,14 @@ const Doha = () => (
       “Doha seems like the perfect place for that kind of innovation,” I said. “How do you feel about the city as a cultural melting pot?”
     </p>
     <p>
-      Mwale nodded. “It’s not perfect. There’s still a lot to learn about truly embracing diversity. But it’s getting there. This restaurant? It’s proof that different worlds can come together and create something extraordinary.”
+      Mwale nodded. “It’s not perfect. There’s still a lot to learn about truly embracing diversity. But it’s getting there. This restaurant? It’s proof that different worlds can come together and create something extraordinary.” [5]
     </p>
     <p>
       From the restaurant, we moved to the Global Religious Symbiosis Center, a pristine white dome in the heart of the bay. Inside, an augmented reality exhibit awaited. “Welcome to our future,” said Nadia, a cultural exchange officer, as she handed me a sleek VR helmet. “This center was built to celebrate diversity and demonstrate how technology can bridge spiritual divides.”
     </p>
     <img src={doha6} alt="Doha Airport" style={{ float: 'right', margin: '0px 0px 15px 15px', maxWidth: '37%' }} />
     <p>
-      Through the VR headset, I found myself in a serene desert landscape. An imam recited verses from the Quran, a Buddhist monk meditated under a Bodhi tree, and a Hindu priest lit a ceremonial fire—all sharing the same space in perfect harmony. The project wasn’t just about coexistence; it was a testament to Qatar’s commitment to inclusivity.
+      Through the VR headset, I found myself in a serene desert landscape. An imam recited verses from the Quran, a Buddhist monk meditated under a Bodhi tree, and a Hindu priest lit a ceremonial fire—all sharing the same space in perfect harmony. The project wasn’t just about coexistence; it was a testament to Qatar’s commitment to inclusivity [6].
     </p>
     <p>
       “In 2030, when this project was launched, there was skepticism,” Nadia explained. “But we proved that technology can be a tool for connection, not separation. Every faith deserves its space, even in the digital age.”
@@ -121,7 +119,7 @@ const Doha = () => (
     </p>
     <h3 style={{ textAlign: 'center' }}>The Desert of Lives</h3>
     <p>
-      I stepped into the desert and the scene in front of me made me feel like I was in another world. Decades ago, the desert was a barren wasteland, but now it is dotted with life. In the distance, the neem trees and desert shrubs swayed in the wind, their roots deeply embedded in the sand dunes, firmly grasping the quicksand. These vegetation not only give the desert a gentle vitality, but also attract many long-lost creatures to return here. My purpose is clear - to explore the changes behind these changes and listen to the voices hidden deep in the desert.
+      I stepped into the desert and the scene in front of me made me feel like I was in another world. Decades ago, the desert was a barren wasteland, but now it is dotted with life. In the distance, the neem trees and desert shrubs swayed in the wind, their roots deeply embedded in the sand dunes, firmly grasping the quicksand. These vegetation not only give the desert a gentle vitality, but also attract many long-lost creatures to return here. My purpose is clear - to explore the changes behind these changes and listen to the voices hidden deep in the desert[7].
     </p>
     <p>
       Beside a small oasis, I met 55-year-old Rahul. He is an Indian laborer who came to Qatar 30 years ago to build the 2022 World Cup stadium and is now a participant in the local tree planting program. He stood next to a neem tree, trimming the dead branches, and the calluses on his hands were as clear as the traces left by the years.
@@ -146,14 +144,14 @@ const Doha = () => (
       "Why are you still here?" I couldn't help asking.
     </p>
     <p>
-      He pondered for a moment and said lightly: "Because of these trees. What I planted with my own hands is not a tree, but a continuation of life. If I leave, everything here will disappear. I have no home, but this desert may be my home."
+      He pondered for a moment and said lightly: "Because of these trees. What I planted with my own hands is not a tree, but a continuation of life. If I leave, everything here will disappear. I have no home, but this desert may be my home." [8]
     </p>
     <p>
       After saying goodbye to Rahul, I continued to move forward. Between the sand dunes, I saw a group of camels walking freely, their steps were steady, and their figures blended with the golden waves of the desert. This scene seemed to be dusted from time. The local herder Mahdi was feeding the camels with his children. When he saw me, he enthusiastically invited me to sit down and share a cup of Arabic coffee.
     </p>
     <img src={doha8} alt="Doha Airport" style={{ float: 'right', margin: '0px 0px 15px 15px', maxWidth: '37%' }} />
     <p>
-      "These camels are healthier than before," he said, with pride on his face. "They used to be the masters of the desert, but around 2022, in order to build those stadiums, our land was occupied, the vegetation was destroyed, and the camels had to migrate to farther places. In those years, their number decreased sharply."
+      "These camels are healthier than before," he said, with pride on his face. "They used to be the masters of the desert, but around 2022, in order to build those stadiums, our land was occupied, the vegetation was destroyed, and the camels had to migrate to farther places. In those years, their number decreased sharply." [7]
     </p>
     <p>
       "Then how did they come back?" I asked.
